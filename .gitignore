@@ -1,0 +1,9 @@
+# _scripts/
+uv.lock
+.env
+*.mp4
+# *.pt
+*.pyc
+scripts/
+scripts_BU/
+.venv/
